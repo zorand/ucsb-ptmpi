@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nohup /home/class_home/zoran/ptmpi/ptmpi $* </dev/null >/home/local_home/zoran/node$1.log &
